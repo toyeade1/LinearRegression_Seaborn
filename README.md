@@ -1,0 +1,1 @@
+Using daa scraped from the-numbers.com, I cleaned my dataset and sued saborn to visualize its properties. The final act was to use scikit's Linear regression to see it there is any correlation between the cost of production and the worldwide gross of a movie
